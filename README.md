@@ -20,6 +20,7 @@ Fibonacci numbers Test
 /home/john/02_cognomotiv# ./fib
 Enter count=50
   ````
+  ````
 (1)1
 (2)1
 (3)2
@@ -70,10 +71,12 @@ Enter count=50
 (48)4807526976
 (49)7778742049
 (50)12586269025
+  ````
 # How to print 100 Fibonacci numbers
   ````
 /home/john/02_cognomotiv# ./fib
 Enter count=100
+  ````
   ````
 (1)1
 (2)1
@@ -175,3 +178,4 @@ Enter count=100
 (98)1.35302e+20
 (99)2.18923e+20
 (100)3.54225e+20
+  ````
