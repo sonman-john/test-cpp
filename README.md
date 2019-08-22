@@ -14,7 +14,6 @@ Fibonacci numbers Test
    g++ -c -o fib-test.o fib-test.cpp
    g++ -o fib fib-test.o
 # How to print 50 Fibonacci
-# ============================
 /home/john/02_cognomotiv# ./fib
 Enter count=50
 (1)1
@@ -68,7 +67,6 @@ Enter count=50
 (49)7778742049
 (50)12586269025
 # How to print 100 Fibonacci
-# ============================
 /home/john/02_cognomotiv# ./fib
 Enter count=100
 (1)1
