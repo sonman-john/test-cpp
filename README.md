@@ -10,12 +10,16 @@ Fibonacci numbers Test
 2. Make file: makefile
 # How to compile
   Run make
+  ````
   /home/john/02_cognomotiv# make
    g++ -c -o fib-test.o fib-test.cpp
    g++ -o fib fib-test.o
+  ````
 # How to print 50 Fibonacci numbers
+  ````
 /home/john/02_cognomotiv# ./fib
 Enter count=50
+  ````
 (1)1
 (2)1
 (3)2
@@ -67,8 +71,10 @@ Enter count=50
 (49)7778742049
 (50)12586269025
 # How to print 100 Fibonacci numbers
+  ````
 /home/john/02_cognomotiv# ./fib
 Enter count=100
+  ````
 (1)1
 (2)1
 (3)2
