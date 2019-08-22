@@ -1,16 +1,20 @@
+# Name
+Fibonacci numbers Test
+# Description
 •	Write a C++ program to print first 50 Fibonacci numbers using recursive and iterative approach.
 •	Bonus points if you print first 100 Fibonacci numbers
 •	Please explain in brief which approach is better and why and any other issues you have to deal with.
 •	Upload the source on your public github profile and send the link to code which contains source files and build files (Makefile or cmake or scons or any tool of your choice).
-
+# Source and make file
 1. Print Fibonacci numbers file: fib-test.cpp
 2. Make file: makefile
-3. Run make
-   /home/john/02_cognomotiv# make
+# How to compile
+  Run make
+  /home/john/02_cognomotiv# make
    g++ -c -o fib-test.o fib-test.cpp
    g++ -o fib fib-test.o
-4. How to print 50 Fibonacci
-============================/n
+# How to print 50 Fibonacci
+# ============================
 /home/john/02_cognomotiv# ./fib
 Enter count=50
 (1)1
@@ -63,8 +67,8 @@ Enter count=50
 (48)4807526976
 (49)7778742049
 (50)12586269025
-4. How to print 100 Fibonacci
-============================
+# How to print 100 Fibonacci
+# ============================
 /home/john/02_cognomotiv# ./fib
 Enter count=100
 (1)1
