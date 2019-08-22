@@ -6,12 +6,12 @@
 1. Print Fibonacci numbers file: fib-test.cpp
 2. Make file: makefile
 3. Run make
-   # make
+   /home/john/02_cognomotiv# make
    g++ -c -o fib-test.o fib-test.cpp
    g++ -o fib fib-test.o
 4. How to print 50 Fibonacci
 ============================
-# ./fib
+/home/john/02_cognomotiv# ./fib
 Enter count=50
 (1)1
 (2)1
@@ -65,7 +65,7 @@ Enter count=50
 (50)12586269025
 4. How to print 100 Fibonacci
 ============================
-# ./fib
+/home/john/02_cognomotiv# ./fib
 Enter count=100
 (1)1
 (2)1
