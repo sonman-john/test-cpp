@@ -15,7 +15,7 @@ Fibonacci numbers Test
    g++ -c -o fib-test.o fib-test.cpp
    g++ -o fib fib-test.o
   ````
-# How to print 50 Fibonacci numbers
+# How to print 100 Fibonacci numbers
 ## using type int_128_t (boost/multiprecision/cpp_int.hpp)
   ````
 root@ubuntu:/home/john/02_cognomotiv# ./fib
