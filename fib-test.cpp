@@ -1,16 +1,16 @@
 #include <bits/stdc++.h>
-//-- Mutiprecision for 128bit int128_t Number than 90
+//-- Mutiprecision for 128bit int128_t
 #include <boost/multiprecision/cpp_int.hpp>
 
 using namespace std;
-//-- Mutiprecision for 128bit int128_t Number than 90
+//-- Mutiprecision for 128bit int128_t
 using namespace boost::multiprecision;
 
 //--Print Fibonacci Number up to n  
 void printFibonacciNumbers(int n)
 {
  if (n<1) return;
- //-- Mutiprecision for 128bit int128_t Number than 90
+ //-- Mutiprecision for 128bit int128_t
  if (n>50){
  	int128_t f1 = 0, f2 = 1;
  	for (int i=1;i<=n;i++)
